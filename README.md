@@ -4,7 +4,7 @@
 
 | | |C| | | |
 
-|-|-|-|-|-|-|-|
+|T|-|-|-|-|-|-|
 
 |1|2|3|4|5|6|7|
 
@@ -14,3 +14,4 @@
 ## Beurten
 * ik raad een C
 * ik raad een t
+* Not good, next one
